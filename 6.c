@@ -19,4 +19,6 @@ void main()
         if(t>0)
         break;
     }
+    if(t==0)
+        printf("unique");
 }
